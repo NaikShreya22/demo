@@ -35,6 +35,8 @@ class ViewController: UIViewController {
         myTextField.layer.masksToBounds = true
         color = mySubview.backgroundColor
         
+        print("hello")
+        
         print("----topPaddingConstraint",topPaddingConstraint.constant)
         print("----subviewPaddingConstraint",subviewPaddingConstraint.constant)
 
