@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3F3BACB92A73850B009465C7 /* RegistrationModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F3BACB82A73850B009465C7 /* RegistrationModel.swift */; };
 		3FB17ADC2A6AA770004A3052 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FB17ADB2A6AA770004A3052 /* AppDelegate.swift */; };
 		3FB17ADE2A6AA770004A3052 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FB17ADD2A6AA770004A3052 /* SceneDelegate.swift */; };
 		3FB17AE02A6AA770004A3052 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FB17ADF2A6AA770004A3052 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3F3BACB82A73850B009465C7 /* RegistrationModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegistrationModel.swift; sourceTree = "<group>"; };
 		3FB17AD82A6AA770004A3052 /* Constraints.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Constraints.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3FB17ADB2A6AA770004A3052 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3FB17ADD2A6AA770004A3052 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				3FB17ADB2A6AA770004A3052 /* AppDelegate.swift */,
 				3FB17ADD2A6AA770004A3052 /* SceneDelegate.swift */,
 				3FB17ADF2A6AA770004A3052 /* ViewController.swift */,
+				3F3BACB82A73850B009465C7 /* RegistrationModel.swift */,
 				3FB17AE12A6AA770004A3052 /* Main.storyboard */,
 				3FB17AE42A6AA771004A3052 /* Assets.xcassets */,
 				3FB17AE62A6AA771004A3052 /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				3FB17AE02A6AA770004A3052 /* ViewController.swift in Sources */,
 				3FB17ADC2A6AA770004A3052 /* AppDelegate.swift in Sources */,
+				3F3BACB92A73850B009465C7 /* RegistrationModel.swift in Sources */,
 				3FB17ADE2A6AA770004A3052 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
